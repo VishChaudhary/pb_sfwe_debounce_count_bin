@@ -3,7 +3,7 @@
 ;
 ; Created: 09/30/2021 7:01:22 PM
 ; Author : vish7
-;
+; Target: AVR128DB48
 
 ; Replace with your application code
 start:
